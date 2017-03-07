@@ -8,7 +8,7 @@ app.listen(port, function(err, res){ //Start listening by the port we specified
     if (err){
         console.log("An error has occurred");
     } else {
-        console.log("server started");
+        console.log("server started"); 
     }
 }); 
 
